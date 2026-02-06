@@ -7,13 +7,7 @@
     "email": "support@supabase.io",
     "url": "https://supabase.com"
   },
-  "keywords": [
-    "supabase",
-    "postgres",
-    "database",
-    "backend",
-    "mcp"
-  ],
-  "logo": "<wip>",
-  "primaryColor": "<wip>"
+  "keywords": ["supabase", "postgres", "database", "backend", "mcp"],
+  "logo": "https://supabase.com/favicon/favicon.svg",
+  "primaryColor": "#3ECF8E"
 }
