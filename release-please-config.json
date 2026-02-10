@@ -7,7 +7,7 @@
       "extra-files": [
         {
           "type": "json",
-          "path": ".cursor/plugin.json",
+          "path": ".cursor-plugin/plugin.json",
           "jsonpath": "$.version"
         }
       ]
