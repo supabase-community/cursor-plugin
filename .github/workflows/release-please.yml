@@ -28,7 +28,7 @@ jobs:
         run: |
           tar -czvf supabase-cursor-plugin.tar.gz \
             --dereference \
-            .cursor/plugin.json \
+            .cursor-plugin/plugin.json \
             mcp.json \
             skills/
 
