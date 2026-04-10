@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.4](https://github.com/supabase-community/cursor-plugin/compare/v0.1.3...v0.1.4) (2026-04-10)
+
+
+### Features
+
+* add supabase skill ([178c04d](https://github.com/supabase-community/cursor-plugin/commit/178c04ddd819650627528e1264cbe98ca4a58aaa))
+* add supabase skill ([e59f266](https://github.com/supabase-community/cursor-plugin/commit/e59f26622304d66e8efd4905f5c66315d1701543))
+
 ## [0.1.3](https://github.com/supabase-community/cursor-plugin/compare/v0.1.2...v0.1.3) (2026-02-10)
 
 
