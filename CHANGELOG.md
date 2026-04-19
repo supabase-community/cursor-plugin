@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/supabase-community/cursor-plugin/compare/v0.1.4...v0.1.5) (2026-04-19)
+
+
+### Features
+
+* add utm_source to MCP URL ([#12](https://github.com/supabase-community/cursor-plugin/issues/12)) ([3b44b21](https://github.com/supabase-community/cursor-plugin/commit/3b44b21120945f13c15e49cc110b2b9c26af0e62))
+
 ## [0.1.4](https://github.com/supabase-community/cursor-plugin/compare/v0.1.3...v0.1.4) (2026-04-10)
 
 
