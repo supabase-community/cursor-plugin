@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.6](https://github.com/supabase-community/cursor-plugin/compare/v0.1.5...v0.1.6) (2026-04-22)
+
+
+### Features
+
+* add X-Source-Name/Version headers and remove utm_source from MCP URL ([#15](https://github.com/supabase-community/cursor-plugin/issues/15)) ([c51bccb](https://github.com/supabase-community/cursor-plugin/commit/c51bccb6370b51a25d9ea5d19ef9454860e20f21))
+* update X-Source-Version header in mcp.json on release ([#17](https://github.com/supabase-community/cursor-plugin/issues/17)) ([7d69960](https://github.com/supabase-community/cursor-plugin/commit/7d699607d0dfb9e5e611f05acb0d32b92d54aeed))
+
 ## [0.1.5](https://github.com/supabase-community/cursor-plugin/compare/v0.1.4...v0.1.5) (2026-04-19)
 
 
