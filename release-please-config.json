@@ -9,6 +9,11 @@
           "type": "json",
           "path": ".cursor-plugin/plugin.json",
           "jsonpath": "$.version"
+        },
+        {
+          "type": "json",
+          "path": "mcp.json",
+          "jsonpath": "$.supabase.headers[\"X-Source-Version\"]"
         }
       ]
     }
