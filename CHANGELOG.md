@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.7](https://github.com/supabase-community/cursor-plugin/compare/v0.1.6...v0.1.7) (2026-04-30)
+
+
+### Features
+
+* bump submodules/agent-skills from `7a646f8` to `e5f7a7c` ([#21](https://github.com/supabase-community/cursor-plugin/issues/21)) ([3f5a861](https://github.com/supabase-community/cursor-plugin/commit/3f5a8618e541636cdaf80bf23e3e111c08fefab2))
+
 ## [0.1.6](https://github.com/supabase-community/cursor-plugin/compare/v0.1.5...v0.1.6) (2026-04-22)
 
 
