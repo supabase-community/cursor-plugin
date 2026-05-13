@@ -114,9 +114,18 @@ cursor-plugin/
 ├── .github/
 │   └── workflows/
 │       └── release-please.yml # Automated release pipeline
+├── scripts/
+│   ├── monitor-pr.sh          # PR status monitor with macOS notifications
+│   └── README.md              # Scripts documentation
 ├── release-please-config.json # Release Please versioning config
 └── README.md
 ```
+
+## Scripts
+
+The `scripts/` directory contains developer utilities:
+
+- **`monitor-pr.sh`** — Polls a GitHub PR for new reviews, comments, or state changes and sends a macOS notification on any update. Can run manually or as a recurring launchd agent (every 15 minutes). See [`scripts/README.md`](scripts/README.md) for setup and configuration.
 
 ## Development
 
